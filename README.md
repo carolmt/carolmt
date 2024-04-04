@@ -8,6 +8,7 @@ Un poco sobre mí, profesionalmente:
 - 🤔 Me gustaría aprender JavaScript realizando algún pequeño proyecto.
 - 📫 Puedes contactar conmigo a través de mi Linkedin: https://www.linkedin.com/in/carolina-maldonado-torres-3b27171a4/
 - ⚡ Fun fact: Los mejores días empiezan desayunando salmón ahumado.
+  
 
 - **Proyecto final:** Voy a crear un sistema de gestión de pedidos enfocado a la hostelería.
   Tratará de una base de datos para almacenar nuevos clientes, trabajadores, servicios que ofrecen, etc. Será usado por los
