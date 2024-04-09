@@ -5,7 +5,7 @@ Un poco sobre mí, profesionalmente:
 - 🔭 Actualmente estoy realizando las prácticas de DAM en Limitronic
   https://www.limitronic.com/es
 - 🌱 He aprendido a programar con Java, algo de Python, y Dart para Flutter.
-- 🤔 Me gustaría aprender JavaScript realizando algún pequeño proyecto.
+- 💻 Actualmente estoy saliendo de mi zona de confort, aprendiendo a usar Angular.
 - 📫 Puedes contactar conmigo a través de mi Linkedin: https://www.linkedin.com/in/carolina-maldonado-torres-3b27171a4/
 - ⚡ Fun fact: Los mejores días empiezan desayunando salmón ahumado.
   
